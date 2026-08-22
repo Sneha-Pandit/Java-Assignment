@@ -1,6 +1,6 @@
 # Java Logic Building Assignments
 
-This repository contains Java logic-building assignments completed as part of *CDAC (C-DAC) PG-DAC coursework*.
+This repository contains Java logic-building assignments completed 
 
 ## 📁 Contents
 

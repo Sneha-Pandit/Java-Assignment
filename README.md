@@ -8,4 +8,4 @@ This repository contains Java logic-building assignments completed
 - logic-building assignment2
 - logic-building assignment3
 - logic-building assignment4
-- fkowchart 
+- flowchart 
